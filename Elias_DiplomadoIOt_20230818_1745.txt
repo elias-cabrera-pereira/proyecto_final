@@ -1,0 +1,10 @@
+hig0c0t3#19700428
+
+Thingspeak
+   usuario:eliasgasparcabrera
+   contraseña:Hig0c0t3#19700428
+   apikey:SQ6MOJVU09V4QN3W
+
+   Channel ID: 2244862
+   ApiKey Write: R8XEHQMC7RS54H86
+          Read : 4WSBEBXLNM7JDQAK
